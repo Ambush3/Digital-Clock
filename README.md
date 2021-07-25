@@ -1,3 +1,5 @@
 # Digital-Clock
 
-![Alt text](F:\PyCharm\Digitcal Clock?raw=true "Title")
+Digital Clock created through Tkinter.
+
+![Digital Clock](https://imgur.com/dJVyPgo)
