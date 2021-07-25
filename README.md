@@ -2,4 +2,4 @@
 
 Digital Clock created through Tkinter.
 
-![Digital Clock](https://imgur.com/a/K9U5UAR)
+[![Digital-Clock.jpg](https://i.postimg.cc/htwqLsnL/Digital-Clock.jpg)](https://postimg.cc/RWc89cNh)
